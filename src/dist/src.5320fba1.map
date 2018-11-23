@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["require","console","log"],"mappings":";;;AAAAA,QAAQ,cAERC,QAAQC,IAAI","file":"src.5320fba1.map","sourceRoot":"..","sourcesContent":["require('./main.css');\n\nconsole.log('Hello Jess!');\n"]}

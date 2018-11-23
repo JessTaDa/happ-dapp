@@ -1,0 +1,21 @@
+{
+  "name": "simple-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^4.0.12",
+    "hyperapp": "^1.2.9",
+    "main.css": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/plugin-transform-react-jsx": "^7.1.6",
+    "cssnano": "^4.1.7"
+  }
+}
